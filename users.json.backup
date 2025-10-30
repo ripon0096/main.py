@@ -1,0 +1,16 @@
+{
+  "5718596664": {
+    "status": "approved",
+    "channel_joined": true,
+    "first_use_time": null
+  },
+  "8489762695": {
+    "status": "approved",
+    "channel_joined": true,
+    "first_use_time": null,
+    "verified_channels": {
+      "@DailyEarningTips25": true,
+      "@BotSeller25": true
+    }
+  }
+}

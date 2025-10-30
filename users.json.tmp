@@ -1,0 +1,115 @@
+{
+  "5718596664": {
+    "status": "approved",
+    "channel_joined": true,
+    "first_use_time": null
+  },
+  "8489762695": {
+    "status": "approved",
+    "channel_joined": true,
+    "first_use_time": null,
+    "verified_channels": {
+      "@DailyEarningTips25": true,
+      "@BotSeller25": true
+    }
+  },
+  "7798086975": {
+    "status": "approved",
+    "channel_joined": true,
+    "first_use_time": null,
+    "verified_channels": {
+      "@DailyEarningTips25": true,
+      "@BotSeller25": true
+    }
+  },
+  "6469580897": {
+    "status": "approved",
+    "channel_joined": true,
+    "first_use_time": null,
+    "verified_channels": {
+      "@DailyEarningTips25": true,
+      "@BotSeller25": true
+    }
+  },
+  "1822573035": {
+    "status": "approved",
+    "channel_joined": true,
+    "first_use_time": null,
+    "verified_channels": {
+      "@DailyEarningTips25": true,
+      "@BotSeller25": true
+    }
+  },
+  "8216143033": {
+    "status": "approved",
+    "channel_joined": true,
+    "first_use_time": null,
+    "verified_channels": {
+      "@DailyEarningTips25": true,
+      "@BotSeller25": true
+    }
+  },
+  "-1002393306572": {
+    "status": "approved",
+    "channel_joined": false,
+    "first_use_time": null
+  },
+  "7712324111": {
+    "status": "approved",
+    "channel_joined": true,
+    "first_use_time": null,
+    "verified_channels": {
+      "@DailyEarningTips25": true,
+      "@BotSeller25": true
+    }
+  },
+  "7062211114": {
+    "status": "approved",
+    "channel_joined": true,
+    "first_use_time": null,
+    "verified_channels": {
+      "@DailyEarningTips25": true,
+      "@BotSeller25": true
+    }
+  },
+  "7953438582": {
+    "status": "approved",
+    "channel_joined": false,
+    "first_use_time": null,
+    "verified_channels": {
+      "@DailyEarningTips25": true
+    }
+  },
+  "7808025434": {
+    "status": "approved",
+    "channel_joined": true,
+    "first_use_time": null,
+    "verified_channels": {
+      "@DailyEarningTips25": true,
+      "@BotSeller25": true
+    }
+  },
+  "5576875908": {
+    "status": "approved",
+    "channel_joined": false,
+    "first_use_time": null
+  },
+  "6916058132": {
+    "status": "approved",
+    "channel_joined": true,
+    "first_use_time": null,
+    "verified_channels": {
+      "@DailyEarningTips25": true,
+      "@BotSeller25": true
+    }
+  },
+  "7464866338": {
+    "status": "approved",
+    "channel_joined": true,
+    "first_use_time": null,
+    "verified_channels": {
+      "@DailyEarningTips25": true,
+      "@BotSeller25": true
+    }
+  }
+}

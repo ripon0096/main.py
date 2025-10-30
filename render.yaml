@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: twilio-pro-bot
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "gunicorn --worker-class gevent --bind 0.0.0.0:$PORT Twiliopro:app"

@@ -1,0 +1,120 @@
+2025-10-30 15:31:54,262 - ERROR - Error setting up signal handlers: module 'signal' has no attribute 'SIGUSR1'
+2025-10-30 15:31:54,262 - INFO - 🚀 Starting Ultra-Stable Telegram Bot with Infinite Restart Capability...
+2025-10-30 15:31:54,263 - INFO - Initialized with admin user only
+2025-10-30 15:31:54,264 - INFO - 🔄 Bot startup attempt #1
+2025-10-30 15:31:57,098 - INFO - Bot initialized successfully on attempt 1
+2025-10-30 15:31:57,098 - INFO - All handlers setup completed successfully
+2025-10-30 15:31:57,098 - INFO - ✅ All handlers setup completed successfully
+2025-10-30 15:31:57,099 - INFO - 🏥 Health monitoring started
+2025-10-30 15:31:57,099 - INFO - 🎉 Bot successfully started on attempt #1
+2025-10-30 15:32:01,163 - INFO - User 8489762695 is member of @DailyEarningTips25
+2025-10-30 15:32:01,527 - INFO - User 8489762695 is member of @DailyEarningTips25
+2025-10-30 15:32:02,503 - INFO - User 8489762695 is member of @BotSeller25
+2025-10-30 15:32:02,512 - INFO - User 8489762695 is member of @BotSeller25
+2025-10-30 15:32:02,605 - INFO - Users saved successfully
+2025-10-30 15:32:02,605 - INFO - ✅ User 8489762695 fully verified in all 2/2 channels
+2025-10-30 15:32:02,615 - INFO - Users saved successfully
+2025-10-30 15:32:02,615 - INFO - ✅ User 8489762695 fully verified in all 2/2 channels
+2025-10-30 15:32:03,531 - INFO - User 8489762695 is member of @DailyEarningTips25
+2025-10-30 15:32:03,727 - INFO - User 8489762695 is member of @DailyEarningTips25
+2025-10-30 15:32:03,832 - INFO - User 8489762695 is member of @BotSeller25
+2025-10-30 15:32:04,437 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:04,437 - INFO - ✅ User 8489762695 fully verified in all 2/2 channels
+2025-10-30 15:32:04,516 - INFO - User 8489762695 is member of @BotSeller25
+2025-10-30 15:32:04,618 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:04,618 - INFO - ✅ User 8489762695 fully verified in all 2/2 channels
+2025-10-30 15:32:05,226 - INFO - User 7798086975 is member of @DailyEarningTips25
+2025-10-30 15:32:05,377 - INFO - User 6469580897 is member of @DailyEarningTips25
+2025-10-30 15:32:05,735 - INFO - User 7798086975 is member of @BotSeller25
+2025-10-30 15:32:05,841 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:05,841 - INFO - ✅ User 7798086975 fully verified in all 2/2 channels
+2025-10-30 15:32:05,850 - INFO - User 6469580897 is member of @BotSeller25
+2025-10-30 15:32:05,953 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:05,953 - INFO - ✅ User 6469580897 fully verified in all 2/2 channels
+2025-10-30 15:32:06,246 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:06,339 - WARNING - User 6469580897 blocked bot or chat not found
+2025-10-30 15:32:06,623 - INFO - User 1822573035 is member of @DailyEarningTips25
+2025-10-30 15:32:06,706 - INFO - User 1822573035 is member of @DailyEarningTips25
+2025-10-30 15:32:07,114 - INFO - User 1822573035 is member of @BotSeller25
+2025-10-30 15:32:07,199 - INFO - User 1822573035 is member of @BotSeller25
+2025-10-30 15:32:07,217 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:07,217 - INFO - ✅ User 1822573035 fully verified in all 2/2 channels
+2025-10-30 15:32:07,302 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:07,302 - INFO - ✅ User 1822573035 fully verified in all 2/2 channels
+2025-10-30 15:32:08,010 - INFO - User 1822573035 is member of @DailyEarningTips25
+2025-10-30 15:32:08,294 - INFO - User 1822573035 is member of @BotSeller25
+2025-10-30 15:32:08,402 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:08,402 - INFO - ✅ User 1822573035 fully verified in all 2/2 channels
+2025-10-30 15:32:08,555 - INFO - User 1822573035 is member of @DailyEarningTips25
+2025-10-30 15:32:08,836 - INFO - User 1822573035 is member of @BotSeller25
+2025-10-30 15:32:08,939 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:08,939 - INFO - ✅ User 1822573035 fully verified in all 2/2 channels
+2025-10-30 15:32:14,502 - INFO - User 8216143033 is member of @DailyEarningTips25
+2025-10-30 15:32:14,975 - INFO - User 8216143033 is member of @BotSeller25
+2025-10-30 15:32:15,077 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:15,077 - INFO - ✅ User 8216143033 fully verified in all 2/2 channels
+2025-10-30 15:32:15,866 - INFO - User 8216143033 is member of @DailyEarningTips25
+2025-10-30 15:32:16,139 - INFO - User 8216143033 is member of @BotSeller25
+2025-10-30 15:32:16,241 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:16,241 - INFO - ✅ User 8216143033 fully verified in all 2/2 channels
+2025-10-30 15:32:16,631 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:16,812 - WARNING - Member list inaccessible for @DailyEarningTips25, using fallback verification
+2025-10-30 15:32:16,941 - INFO - User 8216143033 is member of @DailyEarningTips25
+2025-10-30 15:32:16,983 - WARNING - ❌ User -1002393306572 cannot be verified for @DailyEarningTips25 - No fallback available
+2025-10-30 15:32:17,218 - INFO - User 8216143033 is member of @BotSeller25
+2025-10-30 15:32:17,322 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:17,322 - INFO - ✅ User 8216143033 fully verified in all 2/2 channels
+2025-10-30 15:32:18,151 - INFO - User 7712324111 is member of @DailyEarningTips25
+2025-10-30 15:32:18,635 - INFO - User 7712324111 is member of @BotSeller25
+2025-10-30 15:32:18,739 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:18,740 - INFO - ✅ User 7712324111 fully verified in all 2/2 channels
+2025-10-30 15:32:19,521 - INFO - User 7712324111 is member of @DailyEarningTips25
+2025-10-30 15:32:19,802 - INFO - User 7712324111 is member of @BotSeller25
+2025-10-30 15:32:19,908 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:19,909 - INFO - ✅ User 7712324111 fully verified in all 2/2 channels
+2025-10-30 15:32:20,739 - INFO - User 7062211114 is member of @DailyEarningTips25
+2025-10-30 15:32:21,258 - INFO - User 7062211114 is member of @BotSeller25
+2025-10-30 15:32:21,363 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:21,363 - INFO - ✅ User 7062211114 fully verified in all 2/2 channels
+2025-10-30 15:32:22,175 - INFO - User 7062211114 is member of @DailyEarningTips25
+2025-10-30 15:32:22,454 - INFO - User 7062211114 is member of @BotSeller25
+2025-10-30 15:32:22,557 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:22,557 - INFO - ✅ User 7062211114 fully verified in all 2/2 channels
+2025-10-30 15:32:23,376 - INFO - User 7062211114 is member of @DailyEarningTips25
+2025-10-30 15:32:23,656 - INFO - User 7062211114 is member of @BotSeller25
+2025-10-30 15:32:23,759 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:23,759 - INFO - ✅ User 7062211114 fully verified in all 2/2 channels
+2025-10-30 15:32:24,581 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:24,966 - INFO - User 7953438582 is member of @DailyEarningTips25
+2025-10-30 15:32:25,458 - INFO - User 7953438582 has left channel @BotSeller25
+2025-10-30 15:32:25,461 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:26,365 - INFO - User 7009380547 has left channel @DailyEarningTips25
+2025-10-30 15:32:26,865 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:27,252 - INFO - User 7808025434 is member of @DailyEarningTips25
+2025-10-30 15:32:27,734 - INFO - User 7808025434 is member of @BotSeller25
+2025-10-30 15:32:27,841 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:27,841 - INFO - ✅ User 7808025434 fully verified in all 2/2 channels
+2025-10-30 15:32:28,687 - INFO - User 7808025434 is member of @DailyEarningTips25
+2025-10-30 15:32:28,991 - INFO - User 7808025434 is member of @BotSeller25
+2025-10-30 15:32:29,095 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:29,095 - INFO - ✅ User 7808025434 fully verified in all 2/2 channels
+2025-10-30 15:32:29,511 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:29,899 - INFO - User 5576875908 has left channel @DailyEarningTips25
+2025-10-30 15:32:29,901 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:31,185 - INFO - User 6916058132 is member of @DailyEarningTips25
+2025-10-30 15:32:31,684 - INFO - User 6916058132 is member of @BotSeller25
+2025-10-30 15:32:31,786 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:31,786 - INFO - ✅ User 6916058132 fully verified in all 2/2 channels
+2025-10-30 15:32:32,586 - INFO - User 7464866338 is member of @DailyEarningTips25
+2025-10-30 15:32:33,087 - INFO - User 7464866338 is member of @BotSeller25
+2025-10-30 15:32:33,189 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:33,189 - INFO - ✅ User 7464866338 fully verified in all 2/2 channels
+2025-10-30 15:32:33,322 - ERROR - Telegram API error after 5 attempts: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: not enough rights to send text messages to the chat
+2025-10-30 15:32:33,692 - INFO - User 8489762695 is member of @DailyEarningTips25
+2025-10-30 15:32:34,948 - INFO - User 8489762695 is member of @BotSeller25
+2025-10-30 15:32:35,050 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:35,050 - INFO - ✅ User 8489762695 fully verified in all 2/2 channels
+2025-10-30 15:32:35,632 - INFO - User 7798086975 is member of @DailyEarningTips25
+2025-10-30 15:32:35,908 - INFO - User 7798086975 is member of @BotSeller25
+2025-10-30 15:32:36,011 - ERROR - Error saving users: [WinError 183] Cannot create a file when that file already exists: 'users.json.tmp' -> 'users.json'
+2025-10-30 15:32:36,012 - INFO - ✅ User 7798086975 fully verified in all 2/2 channels
